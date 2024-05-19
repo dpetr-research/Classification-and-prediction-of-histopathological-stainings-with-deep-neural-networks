@@ -1,0 +1,338 @@
+<root>
+	<slide name="slide-002-A1-S2-B2">
+		<x>1/2<x/>
+		<y>0<y/>
+	</slide>
+	<slide name="slide-004-A1-S2-B4">
+		<x />
+		<y />
+	</slide>
+	<slide name="slide-006-A1-S2-B6">
+		<x>1/2<x/>
+		<y>1/2<y/>
+	</slide>
+	<slide name="slide-008-A1-S2-B8">
+		<x>1/3<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-010-A1-S2-B10">
+		<x>1/4<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-012-A1-S2-B12">
+		<x />
+		<y />
+	</slide>
+	<slide name="slide-014-A1-S2-B14">
+		<x>1/3<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-016-A1-S2-B16">
+		<x>1/3<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-018-A1-S2-B18">
+		<x>1/4<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-020-A1-S2-B20">
+		<x>1/3<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-022-A1-S2-B22">
+		<x>1/4<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-024-A1-S2-B24">
+		<x>1/8<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-026-A2-S2-B1">
+		<x>1/2<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-028-A2-S2-B3">
+		<x>1/4<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-030-A2-S2-B5">
+		<x>1/4<x/>
+		<y>1/2<y/>
+	</slide>
+	<slide name="slide-032-A2-S2-B7">
+		<x>1/4<x/>
+		<y>1/3<y/>
+	</slide>
+	<slide name="slide-034-A2-S2-B9">
+		<x>1/4<x/>
+		<y>1/2<y/>
+	</slide>
+	<slide name="slide-036-A2-S2-B11">
+		<x/>
+		<y/>
+	</slide>
+	<slide name="slide-038-A2-S2-B13">
+		<x>1/3<x/>
+		<y>1/2<y/>
+	</slide>
+	<slide name="slide-040-A2-S2-B15">
+		<x>1/4<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-042-A2-S2-B17">
+		<x>1/4<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-044-A2-S2-B19">
+		<x>1/2<x/>
+		<y>1/2<y/>
+	</slide>
+	<slide name="slide-046-A2-S2-B21">
+		<x>1/2<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-048-A2-S2-B23">
+		<x>1/4<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-050-A2-S2-B25">
+		<x>1/3<x/>
+		<y>1/8<y/>
+	</slide>
+	<slide name="slide-052-A3-S2-B2">
+		<x>1/3<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-054-A3-S2-B4">
+		<x>1/3<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-056-A3-S2-B6">
+		<x />
+		<y />
+	</slide>
+	<slide name="slide-058-A3-S2-B8">
+		<x>1/2<x/>
+		<y>1/3<y/>
+	</slide>
+	<slide name="slide-060-A3-S2-B10">
+		<x>1/4<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-062-A3-S2-B12">
+		<x>1/8<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-064-A3-S2-B14">
+		<x>1/4<x/>
+		<y>1/8<y/>
+	</slide>
+	<slide name="slide-066-A3-S2-B16">
+		<x>1/4<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-068-A3-S2-B18">
+		<x>1/3<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-070-A3-S2-B20">
+		<x>1/3<x/>
+		<y>1/2<y/>
+	</slide>
+	<slide name="slide-072-A3-S2-B22">
+		<x />
+		<y />
+	</slide>
+	<slide name="slide-074-A3-S2-B24">
+		<x>1/4<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-076-A4-S2-B1">
+		<x>1/4<x/>
+		<y>1/2<y/>
+	</slide>
+	<slide name="slide-078-A4-S2-B3">
+		<x>1/8<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-080-A4-S2-B5">
+		<x>1/2<x/>
+		<y>1/2<y/>
+	</slide>
+	<slide name="slide-082-A4-S2-B7">
+		<x>1/3<x/>
+		<y>1/2<y/>
+	</slide>
+	<slide name="slide-084-A4-S2-B9">
+		<x>1/2<x/>
+		<y>1/3<y/>
+	</slide>
+	<slide name="slide-086-A4-S2-B11">
+		<x>1/3<x/>
+		<y>1/3<y/>
+	</slide>
+	<slide name="slide-088-A4-S2-B13">
+		<x>1/2<x/>
+		<y>1/8<y/>
+	</slide>
+	<slide name="slide-090-A4-S2-B15">
+		<x>1/2<x/>
+		<y>1/3<y/>
+	</slide>
+	<slide name="slide-092-A4-S2-B17">
+		<x>1/4<x/>
+		<y>1/2<y/>
+	</slide>
+	<slide name="slide-094-A4-S2-B19">
+		<x>1/4<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-096-A4-S2-B21">
+		<x>1/4<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-098-A4-S2-B23">
+		<x>1/2<x/>
+		<y>1/3<y/>
+	</slide>
+	<slide name="slide-100-A4-S2-B25">
+		<x>1/8<x/>
+		<y>1/6<y/>
+	</slide>
+	<slide name="slide-102-A5-S2-B2">
+		<x>1/6<x/>
+		<y>1/2<y/>
+	</slide>
+	<slide name="slide-104-A5-S2-B4">
+		<x>1/3<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-106-A5-S2-B6">
+		<x>1/4<x/>
+		<y>1/2<y/>
+	</slide>
+	<slide name="slide-108-A5-S2-B8">
+		<x>1/3<x/>
+		<y>1/2<y/>
+	</slide>
+	<slide name="slide-110-A5-S2-B10">
+		<x>1/3<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-112-A5-S2-B12">
+		<x />
+		<y />
+	</slide>
+	<slide name="slide-114-A5-S2-B14">
+		<x>1/4<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-116-A5-S2-B16">
+		<x/>
+		<y/>
+	</slide>
+	<slide name="slide-118-A5-S2-B18">
+		<x>1/4<x/>
+		<y>1/2<y/>
+	</slide>
+	<slide name="slide-120-A5-S2-B20">
+		<x>1/3<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-122-A5-S2-B22">
+		<x>1/4<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-124-A5-S2-B24">
+		<x>1/3<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-126-A6-S2-B1">
+		<x>1/4<x/>
+		<y>1/2<y/>
+	</slide>
+	<slide name="slide-128-A6-S2-B3">
+		<x>1/4<x/>
+		<y>1/2<y/>
+	</slide>
+	<slide name="slide-130-A6-S2-B5">
+		<x>1/2<x/>
+		<y>1/3<y/>
+	</slide>
+	<slide name="slide-132-A6-S2-B7">
+		<x />
+		<y />
+	</slide>
+	<slide name="slide-134-A6-S2-B9">
+		<x>1/3<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-136-A6-S2-B11">
+		<x>1/3<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-138-A6-S2-B13">
+		<x>1/4<x/>
+		<y>1/2<y/>
+	</slide>
+	<slide name="slide-140-A6-S2-B15">
+		<x>1/3<x/>
+		<y>1/3<y/>
+	</slide>
+	<slide name="slide-142-A6-S2-B17">
+		<x>1/4<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-144-A6-S2-B19">
+		<x>1/4<x/>
+		<y>1/2<y/>
+	</slide>
+	<slide name="slide-146-A6-S2-B21">
+		<x>1/4<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-148-A6-S2-B23">
+		<x>1/3<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-150-A6-S2-B25">
+		<x>1/3<x/>
+		<y>1/3<y/>
+	</slide>
+	<slide name="slide-152-A7-S2-B2">
+		<x>1/4<x/>
+		<y>1/3<y/>
+	</slide>
+	<slide name="slide-154-A7-S2-B4">
+		<x>1/4<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-156-A7-S2-B6">
+		<x>1/2<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-158-A7-S2-B8">
+		<x>1/4<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-160-A7-S2-B10">
+		<x>1/4<x/>
+		<y>1/8<y/>
+	</slide>
+	<slide name="slide-162-A7-S2-B12">
+		<x>1/8<x/>
+		<y>1/4<y/>
+	</slide>
+	<slide name="slide-164-A7-S2-B14">
+		<x>1/8<x/>
+		<y>1/8<y/>
+	</slide>
+	<slide name="slide-166-A7-S2-B16">
+		<x>1/4<x/>
+		<y>1/3<y/>
+	</slide>
+	<slide name="slide-168-A7-S2-B18">
+		<x>1/3<x/>
+		<y>1/3<y/>
+	</slide>
+</root>
