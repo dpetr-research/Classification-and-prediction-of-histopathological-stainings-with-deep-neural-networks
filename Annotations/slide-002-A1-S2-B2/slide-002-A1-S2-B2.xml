@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation_meta_data version="1.1">
+    <source zoom_level="0">
+        <region_of_interest offset_left="16128" offset_top="123136" width="62208" height="56320"/>
+        <bounding_annotation name="" color_bgr="FF0000" type="polygon" guid="{27CDE96A-DFB5-4C79-8237-711AD01661E7}">
+            <p x="62" y="94"/><p x="62190" y="94"/><p x="62190" y="56225"/><p x="62" y="56225"/><p x="62" y="94"/>
+        </bounding_annotation>
+    </source>
+    <destination micrometer_per_pixel_x="0.24328396570091901" micrometer_per_pixel_y="0.24328396570091901">
+        <annotations>
+            <annotation name="KP1" color_bgr="FF0000" type="polygon">
+                <p x="6193" y="12285"/><p x="6193" y="12667"/><p x="6616" y="12667"/><p x="6616" y="12285"/><p x="6193" y="12285"/>
+            </annotation>
+            <annotation name="KP2" color_bgr="FF0000" type="polygon">
+                <p x="14866" y="37784"/><p x="14866" y="38402"/><p x="15561" y="38402"/><p x="15561" y="37784"/><p x="14866" y="37784"/>
+            </annotation>
+            <annotation name="KP3" color_bgr="FF0000" type="polygon">
+                <p x="39459" y="13287"/><p x="39459" y="14060"/><p x="40343" y="14060"/><p x="40343" y="13287"/><p x="39459" y="13287"/>
+            </annotation>
+            <annotation name="KP4" color_bgr="FF0000" type="polygon">
+                <p x="9950" y="50074"/><p x="9950" y="50449"/><p x="10325" y="50449"/><p x="10325" y="50074"/><p x="9950" y="50074"/>
+            </annotation>
+            <annotation name="KP5" color_bgr="FF0000" type="polygon">
+                <p x="34179" y="38543"/><p x="34179" y="39138"/><p x="34882" y="39138"/><p x="34882" y="38543"/><p x="34179" y="38543"/>
+            </annotation>
+            <annotation name="KP6" color_bgr="FF0000" type="polygon">
+                <p x="55831" y="9003"/><p x="55831" y="9366"/><p x="56208" y="9366"/><p x="56208" y="9003"/><p x="55831" y="9003"/>
+            </annotation>
+        </annotations>
+    </destination>
+</annotation_meta_data>
