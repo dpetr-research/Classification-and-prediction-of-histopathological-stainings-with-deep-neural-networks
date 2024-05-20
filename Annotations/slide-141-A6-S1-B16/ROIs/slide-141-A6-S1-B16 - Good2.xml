@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation_meta_data version="1.1">
+    <source zoom_level="0">
+        <region_of_interest offset_left="30464" offset_top="122112" width="12288" height="11264"/>
+        <bounding_annotation name="Good2" color_bgr="FF0000" type="polygon" guid="{D1D8ECD4-138A-4958-B28E-0BC96C73BD9F}">
+            <p x="78" y="169"/><p x="78" y="11073"/><p x="12112" y="11073"/><p x="12112" y="169"/><p x="78" y="169"/>
+        </bounding_annotation>
+    </source>
+    <destination micrometer_per_pixel_x="0.24328396570091901" micrometer_per_pixel_y="0.24328396570091901">
+        <annotations>
+            <annotation name="Good3" color_bgr="FF0000" type="polygon">
+                <p x="-6424" y="5696"/><p x="-6424" y="18550"/><p x="482" y="18550"/><p x="482" y="5696"/><p x="-6424" y="5696"/>
+            </annotation>
+        </annotations>
+    </destination>
+</annotation_meta_data>
