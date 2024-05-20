@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation_meta_data version="1.1">
+    <source zoom_level="0">
+        <region_of_interest offset_left="55040" offset_top="109568" width="512" height="512"/>
+        <bounding_annotation name="KP4" color_bgr="FF0000" type="polygon" guid="{7075C778-B49C-47AD-B4F5-F810AFD1E165}">
+            <p x="57" y="197"/><p x="57" y="446"/><p x="410" y="446"/><p x="410" y="197"/><p x="57" y="197"/>
+        </bounding_annotation>
+    </source>
+    <destination micrometer_per_pixel_x="0.24328396570091901" micrometer_per_pixel_y="0.24328396570091901">
+        <annotations>
+            <annotation name="" color_bgr="FF0000" type="polygon">
+                <p x="-26238" y="-10794"/><p x="-26238" y="51020"/><p x="23419" y="51020"/><p x="23419" y="-10794"/><p x="-26238" y="-10794"/>
+            </annotation>
+        </annotations>
+    </destination>
+</annotation_meta_data>
