@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation_meta_data version="1.1">
+    <source zoom_level="0">
+        <region_of_interest offset_left="13312" offset_top="132352" width="70144" height="49152"/>
+        <bounding_annotation name="" color_bgr="FF0000" type="polygon" guid="{434EB547-009A-4789-BBD9-E59B0C66FAD2}">
+            <p x="42" y="117"/><p x="69944" y="117"/><p x="69944" y="48976"/><p x="42" y="48976"/><p x="42" y="117"/>
+        </bounding_annotation>
+    </source>
+    <destination micrometer_per_pixel_x="0.24328396570091901" micrometer_per_pixel_y="0.24328396570091901">
+        <annotations>
+            <annotation name="KP1" color_bgr="FF0000" type="polygon">
+                <p x="57485" y="32806"/><p x="57485" y="33275"/><p x="57869" y="33275"/><p x="57869" y="32806"/><p x="57485" y="32806"/>
+            </annotation>
+            <annotation name="KP2" color_bgr="FF0000" type="polygon">
+                <p x="69276" y="17556"/><p x="69276" y="17888"/><p x="69608" y="17888"/><p x="69608" y="17556"/><p x="69276" y="17556"/>
+            </annotation>
+            <annotation name="KP3" color_bgr="FF0000" type="polygon">
+                <p x="49797" y="3505"/><p x="49797" y="3674"/><p x="49999" y="3674"/><p x="49999" y="3505"/><p x="49797" y="3505"/>
+            </annotation>
+            <annotation name="KP4" color_bgr="FF0000" type="polygon">
+                <p x="45608" y="19620"/><p x="45608" y="19762"/><p x="45700" y="19762"/><p x="45700" y="19620"/><p x="45608" y="19620"/>
+            </annotation>
+            <annotation name="KP5" color_bgr="FF0000" type="polygon">
+                <p x="5365" y="47544"/><p x="5365" y="47922"/><p x="5743" y="47922"/><p x="5743" y="47544"/><p x="5365" y="47544"/>
+            </annotation>
+        </annotations>
+    </destination>
+</annotation_meta_data>
